@@ -1,0 +1,718 @@
+{
+    "status": 200,
+    "result": {
+        "data": [
+            {
+                "type": "categories",
+                "data": [
+                    {
+                        "categoryID": 43626,
+                        "categoryTitle": "وسایل نقلیه",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/VEHICLES.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg"
+                    },
+                    {
+                        "categoryID": 43603,
+                        "categoryTitle": "املاک",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/REALESTATE.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg"
+                    },
+                    {
+                        "categoryID": 43618,
+                        "categoryTitle": "استخدام",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/EMPLOYMENT.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/jobs.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/jobs.jpg"
+                    },
+                    {
+                        "categoryID": 43633,
+                        "categoryTitle": "خدمات و کسب و کار",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/SERVICES.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/services.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/services.jpg"
+                    },
+                    {
+                        "categoryID": 43608,
+                        "categoryTitle": "لوازم خانگی",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/HOME_CARE.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/household.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/household.jpg"
+                    },
+                    {
+                        "categoryID": 43619,
+                        "categoryTitle": "ورزش فرهنگ فراغت",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/SPORTS_FUN.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/sports.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/sports.jpg"
+                    },
+                    {
+                        "categoryID": 43596,
+                        "categoryTitle": "لوازم الکترونیکی",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/ELECTRONIC_DEVICES.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/electronics.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/electronics.jpg"
+                    },
+                    {
+                        "categoryID": 43631,
+                        "categoryTitle": "صنعتی، اداری و تجاری",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/BUSINESS.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/businesses.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/businesses.jpg"
+                    },
+                    {
+                        "categoryID": 44096,
+                        "categoryTitle": "موبایل، تبلت و لوازم",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/MOBILE_TABLET_ACCESSORIES.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/mobile-tablet.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/mobile-tablet.jpg"
+                    },
+                    {
+                        "categoryID": 43612,
+                        "categoryTitle": "لوازم شخصی",
+                        "iconURL": "https:\/\/www.sheypoor.com\/img\/category-icons\/app\/PERSONAL_STUFF.png",
+                        "defaultImageURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/personal.jpg",
+                        "defaultThumbnailURL": "https:\/\/www.sheypoor.com\/img\/placeholders\/personal.jpg"
+                    }
+                ]
+            },
+            {
+                "type": "tabs",
+                "data": {
+                    "tabs": [
+                        {
+                            "analyticsKey": "home_all_listings",
+                            "attributeBadge": null,
+                            "queryKey": "",
+                            "attributeID": -1,
+                            "localyticsKey": "home_all_listings",
+                            "attributeTitle": "همه آگهی‌ها"
+                        },
+                        {
+                            "analyticsKey": "secure_tab",
+                            "attributeBadge": null,
+                            "queryKey": "a78853",
+                            "attributeID": 78853,
+                            "localyticsKey": "home_only_internet_buy",
+                            "attributeTitle": "خرید امن با ارسال سراسری"
+                        }
+                    ],
+                    "sticky": true
+                }
+            },
+            {
+                "type": "serp",
+                "data": {
+                    "payload": [],
+                    "totalCount": 2748,
+                    "requestDateTime": "1686186560.0000",
+                    "lastReceivedValue": null,
+                    "serpMixItems": null,
+                    "listings": [
+                        {
+                            "listingID": "426914001",
+                            "title": "موتورسیکلت قسطی میخوام با شرایط",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "20,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426913386",
+                            "title": "131 تمیز زیاد استفاده نکردم گذاشته تو پارکینگ خونه",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "308,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "کشاورز"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426913128",
+                            "title": "رنو داستر 2017 اتومات",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/08\/426913128\/225x225_af\/426913128_38a646bc2946cdd357892d93ac7395e7.webp",
+                            "imagesCount": 4,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426912537",
+                            "title": "رهن کامل خانه ویلای به شرکتها ،،ومسعجرها",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "رهن: توافقی\nاجاره: توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "رمین"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426912016",
+                            "title": "فروش پرواز 150 خشک",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "32,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "دشتیاری پلان"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/08\/426912016\/225x225_af\/426912016_82d0ea751d08db7cd771c56a7d9ac431.webp",
+                            "imagesCount": 3,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426911654",
+                            "title": "پارس مدل 400 تمیز بدون خط و خش",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "450,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/08\/426911654\/225x225_af\/426911654_996786efc7904ee6c94428cf05988cbf.webp",
+                            "imagesCount": 2,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426911601",
+                            "title": "405خوب مدل 94",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "400,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "سعید هاشمی8"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426911225",
+                            "title": "پرواز 1401",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "52,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "کمب للو"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/08\/426911225\/225x225_af\/426911225_6c36bde28bc9702a7092ec4125427fe4.webp",
+                            "imagesCount": 1,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426774986",
+                            "title": "قایق فروشی و معاوضه",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "250,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426910731",
+                            "title": "ماشین تمیز مدل 87",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "چابهار"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426910731\/225x225_af\/426910731_abc23e9f35a8d64f306ca52a9400773a.webp",
+                            "imagesCount": 8,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426910560",
+                            "title": "میز و صندلی ناهارخوری 4 نفره",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "3,200,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "شهرک ولایت"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426910560\/225x225_af\/426910560_4e64e23f9cfd0c2eb1c1b60181e3e06d.webp",
+                            "imagesCount": 3,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426909901",
+                            "title": "فروش پژو 405",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "450,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426909901\/225x225_af\/426909901_4deb5e5e67d47fe97ed061143a3bc4a3.webp",
+                            "imagesCount": 2,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426909643",
+                            "title": "خانه کلنگی",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "680,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "سلیمان بازار تیسکوپان"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426909643\/225x225_af\/426909643_cd577e8b7734ff1c3f0ec6a1485d3e48.webp",
+                            "imagesCount": 3,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426909058",
+                            "title": "گوشی بسیار تمیز آبی براق بدون خط و خش",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "5,500,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "چاکر بازار"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426909058\/225x225_af\/426909058_fea989d83b580208ae7fa47992baaadf.webp",
+                            "imagesCount": 4,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908843",
+                            "title": "موتور مدل99 1ماهه استارت خورده",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "50,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426908843\/225x225_af\/426908843_8b6f4432c845b40672483f80a94ae166.webp",
+                            "imagesCount": 1,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908782",
+                            "title": "405 مدل 97",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "400,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "سعید هاشمی 8"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908613",
+                            "title": "موتورسیکلت مدل 88",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "15,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426908613\/225x225_af\/426908613_7bb6c271a89ca4dd2599384aea2ef1d0.webp",
+                            "imagesCount": 2,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908141",
+                            "title": "موتور سیکلت پرواز 200 خشک خشک",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "پلان"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426908141\/225x225_af\/426908141_0a1a1b3df74ba12307aa56ed38d63141.webp",
+                            "imagesCount": 8,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908133",
+                            "title": "درخواست خونه اجاره",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "رهن: توافقی\nاجاره: توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "چابهار بازار یا دور بر بازار"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426908051",
+                            "title": "زمین فروشی",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "روستای طیس کوپان"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426907969",
+                            "title": "فروش فوری پراید مدل 91",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "155,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "کمب"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/car.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426907531",
+                            "title": "فروش زمین در کمب",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "زیباشهر کمب"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "http:\/\/www.sheypoor.com\/img\/placeholders\/real-estate.jpg",
+                            "imagesCount": 0,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426906532",
+                            "title": "بنز تک کمپرسی",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "قیمت توافقی",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": "چابهار دشتیاری"
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426906532\/225x225_af\/426906532_1f02d333f90056c06a02d2b8d53c5f36.webp",
+                            "imagesCount": 1,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        },
+                        {
+                            "listingID": "426906227",
+                            "title": "فروش لپ تاپ Lenovo ThinkPad",
+                            "sortInfo": "ساعاتی پیش",
+                            "priceString": "13,000,000 تومان",
+                            "contactInfo": "call",
+                            "certificate": null,
+                            "location": {
+                                "city": "چابهار",
+                                "region": "سیستان و بلوچستان",
+                                "neighbourhood": ""
+                            },
+                            "priceTag": null,
+                            "isBumped": false,
+                            "thumbImageURL": "https:\/\/cdn.sheypoor.com\/imgs\/2023\/06\/07\/426906227\/225x225_af\/426906227_e44a30655757648cd5ec96961c8cef0d.webp",
+                            "imagesCount": 6,
+                            "badge": null,
+                            "separatorMessage": null,
+                            "isDeliverable": false,
+                            "titleIcons": null,
+                            "shopLogo": null,
+                            "type": "LISTING",
+                            "isSpecial": 0,
+                            "isSpecialInHome": 0
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+}
